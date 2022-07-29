@@ -2,7 +2,7 @@
 
 My name is Natalia. I'm a Data Scientist!
 
-This is my world of studies and practices.
+This is some of my studies and practices.
 
 Welcome!
 
@@ -14,7 +14,7 @@ Welcome!
 
 **I'm learning**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
 
 ﾠ
 
@@ -29,4 +29,4 @@ Welcome!
 
 <a href="https://www.linkedin.com/in/nataliaalourenco" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-nataliaalourenco@outlook.com.br
+Email: nataliaalourenco@outlook.com.br

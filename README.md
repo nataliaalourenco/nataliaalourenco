@@ -22,7 +22,7 @@ Welcome!
 <a href="https://github.com/nataliaalourenco">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliaalourenco&layout=compact&langs_count=7&theme=dracula"/ width="400" height="300">
 </div>
-
+</a>
 ﾠ
 
 **You can reach me at**

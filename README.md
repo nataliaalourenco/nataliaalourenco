@@ -18,13 +18,6 @@ Welcome!
 
 ﾠ
 
-<div>
-<a href="https://github.com/nataliaalourenco">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliaalourenco&layout=compact&langs_count=7&theme=dracula"/ width="400" height="350">
-</div>
-</a>
-ﾠ
-
 **You can reach me at**
 
 <a href="https://www.linkedin.com/in/nataliaalourenco" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
